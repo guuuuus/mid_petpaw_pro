@@ -1,0 +1,23 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+C1,10uf,C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,130.18,-67.15,-90.0,top
+C2,10uf,C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,130.17,-73.65,-90.0,top
+C3,10uf,C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,135.5,-81.0,0.0,top
+C4,10uf,C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,128.445,-81.0,0.0,top
+C5,10uf,C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,105.7,-84.01,-90.0,top
+C6,10uf,C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,122.05,-79.09,90.0,top
+D1,LED,LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder,112.0,-100.5,-90.0,top
+D2,LED,LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder,116.1,-99.5,-90.0,top
+D3,LED,LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder,120.2,-98.8975,-90.0,top
+D4,LED,LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder,124.3,-98.8975,-90.0,top
+D5,LED,LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder,128.4,-99.5,-90.0,top
+D6,LED,LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder,132.5,-100.5,-90.0,top
+J1,USB_C_Receptacle_USB2.0_14P,USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal,122.13,-67.45,180.0,top
+R1,R,R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,123.06,-86.97,-90.0,top
+R2,R,R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,114.5,-67.11,-90.0,top
+R3,R,R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,126.13,-73.62,90.0,top
+R4,R,R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,115.22,-73.6,0.0,top
+SW1,SW_Push,SW_PUSH_6mm,108.13,-70.23,-90.0,top
+U1,~,LQFP-32_7x7mm_P0.8mm,113.67,-81.75,315.0,top
+U2,WS2811,SO-8_3.9x4.9mm_P1.27mm,128.51,-87.785,90.0,top
+U3,WS2811,SO-8_3.9x4.9mm_P1.27mm,135.635,-87.785,90.0,top
+U4,AMS1117-3.3,SOT-223-3_TabPin2,135.8975,-70.57,270.0,top
