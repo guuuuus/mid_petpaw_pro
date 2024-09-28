@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "usb_midi.h": "c",
+        "ch32v20x.h": "c",
+        "usb_serial.h": "c",
+        "usb_lib.h": "c",
+        "debug.h": "c",
+        "neo_ch32vtim1dma.h": "c"
+    }
+}

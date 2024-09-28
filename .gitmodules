@@ -1,0 +1,3 @@
+[submodule "lib/ch32v203_usbMidi"]
+	path = lib/ch32v203_usbMidi
+	url = https://github.com/guuuuus/ch32v203_usbMidi.git
